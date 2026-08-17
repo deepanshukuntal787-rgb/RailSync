@@ -30,3 +30,6 @@ prisma/dev.db
 # IDE
 .vscode
 .idea
+dump.rdb
+*.rdb
+cookies.txt
