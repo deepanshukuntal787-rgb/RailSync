@@ -261,6 +261,11 @@ Start:
 - Monitoring & Observability
 
 ---
+# Screenshots
+
+## Home Page
+
+![Home Page](./screenshots/WhatsApp%20Image%202026-08-16%20at%2017.26.14.jpeg)
 
 # 👨‍💻 Author
 
