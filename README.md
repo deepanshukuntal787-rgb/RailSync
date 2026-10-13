@@ -1,4 +1,4 @@
-# 🚆 IRCTC Clone
+# 🚆 RailSync — Event-Driven Railway Reservation Platform
 
 A scalable railway reservation platform inspired by IRCTC, built using a distributed microservices architecture with Node.js, PostgreSQL, Redis, Kafka, Elasticsearch, Docker, and a modern frontend.
 
